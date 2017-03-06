@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CDADCE8D4BAB6BA5B0AEC591F9DB875E3B2C5428",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CDADCE8D4BAB6BA5B0AEC591F9DB875E3B2C5428" : 9223372036854775807,
+    "F0326E5D541A8F1207E4D134C9F0A06337A3405A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3C683ACD-7D6F-414F-980B-F86A0A3292BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CDADCE8D4BAB6BA5B0AEC591F9DB875E3B2C5428" : "themallbd\/",
+    "F0326E5D541A8F1207E4D134C9F0A06337A3405A" : "ImageSlideshow\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TheMallBD2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TheMallBD2.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:anik_sarker\/themallbd.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CDADCE8D4BAB6BA5B0AEC591F9DB875E3B2C5428"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zvonicek\/ImageSlideshow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0326E5D541A8F1207E4D134C9F0A06337A3405A"
+    }
+  ]
+}
